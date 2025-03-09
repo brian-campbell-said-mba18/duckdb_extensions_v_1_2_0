@@ -1,0 +1,16 @@
+2025-03-09 12:20:17,632 - INFO - Starting the download process...
+2025-03-09 12:20:20,866 - INFO - Downloaded: motherduck.duckdb_extension.gz
+2025-03-09 12:20:21,029 - INFO - Downloaded: excel.duckdb_extension.gz
+2025-03-09 12:20:23,137 - INFO - Downloaded: azure.duckdb_extension.gz
+2025-03-09 12:20:23,539 - INFO - Downloaded: aws.duckdb_extension.gz
+2025-03-09 12:20:26,711 - INFO - Downloaded: autocomplete.duckdb_extension.gz
+2025-03-09 12:20:27,413 - INFO - Downloaded: sqlite_scanner.duckdb_extension.gz
+2025-03-09 12:20:27,886 - INFO - Downloaded: inet.duckdb_extension.gz
+2025-03-09 12:20:28,411 - INFO - Downloaded: tpcds.duckdb_extension.gz
+2025-03-09 12:20:28,913 - INFO - Downloaded: vss.duckdb_extension.gz
+2025-03-09 12:20:29,005 - INFO - Downloaded: arrow.duckdb_extension.gz
+2025-03-09 12:20:30,135 - INFO - Downloaded: iceberg.duckdb_extension.gz
+2025-03-09 12:20:30,412 - INFO - Downloaded: postgres_scanner.duckdb_extension.gz
+2025-03-09 12:20:32,068 - INFO - Downloaded: mysql_scanner.duckdb_extension.gz
+2025-03-09 12:20:33,077 - INFO - Downloaded: spatial.duckdb_extension.gz
+2025-03-09 12:20:33,080 - INFO - Download process completed.
